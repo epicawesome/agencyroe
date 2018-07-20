@@ -69,6 +69,7 @@ h1 {
 }
 p {
 	font-size: 1.25rem;
+	margin-bottom: .5em;
 }
 a { color: #F16C24 }
 a:hover { text-decoration: underline; }
